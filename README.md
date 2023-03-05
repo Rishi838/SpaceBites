@@ -1,9 +1,4 @@
 
-
-
-
-
-
 ## SpaceBites
 
 ![home](https://user-images.githubusercontent.com/74640208/222934350-a64f3c2c-b335-45cd-be93-54ac7033ca17.png)
