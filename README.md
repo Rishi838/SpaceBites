@@ -1,5 +1,5 @@
 
-## SpaceBites
+# SpaceBites
 
 ![home](https://user-images.githubusercontent.com/74640208/222934350-a64f3c2c-b335-45cd-be93-54ac7033ca17.png)
 
@@ -21,6 +21,14 @@ The Purpose of SpaceBites is to minimize the interaction with the waiter and giv
   Express Js. 
    - Database. 
    MongoDb 
+   
+   
+# Features   
+   
+ ## Sign Up
+When user comes first time to our website he/she has to sign in with name , email ,password. 
+
+![WhatsApp Image 2023-03-05 at 7 56 06 AM](https://user-images.githubusercontent.com/74640208/222938635-b5ab45d3-f8e2-4074-8009-0f7292e9141b.jpeg)
   
 
 ## Login In
@@ -28,10 +36,17 @@ Once the user has registered with our website then for next time onwords he/she 
 
 ![login](https://user-images.githubusercontent.com/74640208/222938571-1a5342c9-3564-48c4-a13e-8452a033fa2b.png)
 
-## Sign Up
-When user comes first time to our website he/she has to sign in with name , email ,password.
+
+## Cuisine
+This section contains the list of cuisines that the user have to order. We have divided this sections into multiple sub-sections so that the user can easily filter out what they have to order.
+
+## EatList
+This section contains all your selected orders that the users have selected from food menu. From here, you can also increase or decrease the quantity of orders. Price of orders will get updated simultaneously.
 
 
+## Previous Orders
+This section contains all the list of orders that the user has previously ordered. This will help the user to see his/her order history and reorder it if he/she wants to.
 
+# Challenges we faced
+While designing this website, we had major problems while building the server side of the application. But with constant efforts and great mentoring from the mentors we were able to tackel those problems and overcome them.
 
-![WhatsApp Image 2023-03-05 at 7 56 06 AM](https://user-images.githubusercontent.com/74640208/222938635-b5ab45d3-f8e2-4074-8009-0f7292e9141b.jpeg)
