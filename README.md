@@ -39,6 +39,8 @@ Once the user has registered with our website then for next time onwords he/she 
 
 ## Cuisine
 This section contains the list of cuisines that the user have to order. We have divided this sections into multiple sub-sections so that the user can easily filter out what they have to order.
+![13](https://user-images.githubusercontent.com/74640208/222941750-2d3afe31-6c96-4097-9263-5ec41acbd434.png)
+![14](https://user-images.githubusercontent.com/74640208/222941751-23ef03d8-2d45-426d-8c47-1d0edc250a25.png)
 
 ## EatList
 This section contains all your selected orders that the users have selected from food menu. From here, you can also increase or decrease the quantity of orders. Price of orders will get updated simultaneously.
