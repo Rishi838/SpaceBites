@@ -11,15 +11,19 @@ The goal of SpaceBites is to create a dinning experience that is both unique and
 The Purpose of SpaceBites is to minimize the interaction with the waiter and give the custmers full control over the cuisine offered by restaurnt and order them with ease by just sitting at their table.
 ## Requirements:
 
- - Front End
- HTML  
- CSS  
- JAVASCRIPT  
+ - Front End 
+ 
+  HTML  
+  CSS  
+  JAVASCRIPT  
 
   - Back End  
+  
   Node Js.  
-  Express Js. 
+  Express Js.
+  
    - Database. 
+   
    MongoDb 
    
    
